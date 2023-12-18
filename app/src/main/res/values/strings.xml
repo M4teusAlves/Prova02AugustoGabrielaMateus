@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prova02AugustoMateus</string>
+    <drawable name="inserir_imovel">@drawable/casa</drawable>
+</resources>
